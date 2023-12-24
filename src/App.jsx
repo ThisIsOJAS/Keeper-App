@@ -1,11 +1,7 @@
 import "./App.css";
 
 function App() {
-  return (
-    <div>
-      <p>Ojas</p>
-    </div>
-  );
+  return <p>Main Code here</p>;
 }
 
 export default App;
