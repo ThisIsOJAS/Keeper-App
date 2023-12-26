@@ -26,6 +26,7 @@ header h1 {
   color: #fff;
   font-family: "McLaren", cursive;
   font-weight: 200;
+  font-size: 2rem;
 }
 
 footer {
@@ -47,10 +48,13 @@ footer p {
   width: 240px;
   margin: 16px;
   float: left;
+  font-family: "Montserrat", sans-serif;
+  line-height: 1.3rem;
 }
 .note h1 {
   font-size: 1.1em;
   margin-bottom: 6px;
+  font-weight: bold;
 }
 .note p {
   font-size: 1.1em;

@@ -1,7 +1,16 @@
-import "./App.css";
+import Header from "./components/Header";
+import Note from "./components/Note";
+import Footer from "./components/Footer";
+import React from "react";
 
 function App() {
-  return <p>Main Code here</p>;
+  return (
+    <React.Fragment>
+      <Header />
+      <Note />
+      <Footer />
+    </React.Fragment>
+  );
 }
 
 export default App;
